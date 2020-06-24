@@ -1,5 +1,4 @@
 # SamuraiBlaster3000_Executable
-Executable builds for SamuraiBlaster3000
 
 Please run the game in 1280x720 in windowed mode!
 
